@@ -8,7 +8,10 @@ V3 - Included a prompt to generate motivational images as well.
 
 Further developed the idea to become a WhatsApp Goals and Productivity Bot.
 
-Utilising ideas discussed in the books "Atomic Habits" and "The Compound Effect".
+Utilising ideas discussed in the books "Atomic Habits", "The Compound Effect" and "Tiny Experiments".
+
+Potential feature: Visibility of activities, for example sporting endeavours etc. thereby harnessing the motivational effects of social competition and gamification etc. 
+
 
 SMART Goal Framework Integration: The bot subtly guides users toward SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound).
 
